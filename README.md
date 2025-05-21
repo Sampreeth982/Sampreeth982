@@ -1,16 +1,16 @@
-## Hi there 👋
+IF YOU WANNA WEAR A CROWN YOU MUST BEAR ITS WEIGHT👑⭐
 
-<!--
-**Sampreeth982/Sampreeth982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##ABOUT ME
+Grettings!!...
+Im Sampreeth
+Passionate about AI and Machine Learning
+Learning Python , DSA and working on cool projects
 
-Here are some ideas to get you started:
+##Skills
+Python|C|Java|Machine learning tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Projects
+-Coming soon ....Stay tuned to find out!
+
+#Connect with me
+[Email]:danieljordansam@gmail.com
